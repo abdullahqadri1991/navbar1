@@ -1,0 +1,262 @@
+body {
+    background-color: beige;
+}
+
+#main1 {
+    width: 90%;
+    height: 70px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    justify-content: space-around;
+    margin-top: 200px;
+}
+
+#contect {
+    width: 10%;
+    height: 25px;
+    background-color: rgb(72, 167, 167);
+    color: white;
+    border: 1px solid black;
+    border-radius: 50px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    padding-top: 10px;
+    margin: 10px;
+
+}
+
+#sirvices,
+#project,
+#about {
+    width: 10%;
+    height: 25px;
+    color: white font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    padding-top: 10px;
+    margin: 10px;
+}
+
+#sirvices:hover,
+#project:hover,
+#about:hover {
+    width: 10%;
+    height: 25px;
+    color: white;
+    font-size: 20px;
+    font-family: serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    padding-top: 10px;
+    margin: 10px;
+    cursor: pointer;
+    margin-top: 20px;
+    background-color: rgba(128, 128, 128, 0.322);
+}
+
+#contect:hover {
+    width: 10%;
+    height: 30px;
+    color: white;
+    background-color: aquamarine;
+    font-size: 20px;
+    font-family: serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    padding-top: 10px;
+    margin: 10px;
+    transition: all 1s;
+    cursor: pointer;
+}
+
+/* navigration Bar 1 :end */
+
+
+
+/* navigration Bar 2 Start  */
+#main2 {
+    width: 90%;
+    height: 70px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+#logo2 {
+    display: flex;
+    flex-direction: row;
+    margin-left: 400px;
+    justify-content: flex-start;
+
+}
+
+#contect2 {
+    width: 10%;
+    height: 25px;
+    background-color: rgb(99, 167, 72);
+    color: white;
+    border: 1px solid black;
+    border-radius: 50px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    padding-top: 10px;
+    margin: 10px;
+}
+
+#sirvices2,
+#project2,
+#about2 {
+    width: 10%;
+    height: 25px;
+    color: white font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    padding-top: 10px;
+    margin: 10px;
+}
+
+#sirvices2:hover,
+#project2:hover,
+#about2:hover {
+    width: 10%;
+    height: 25px;
+    color: white;
+    font-size: 20px;
+    font-family: serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    padding-top: 10px;
+    margin: 10px;
+    cursor: pointer;
+    margin-top: 20px;
+    background-color: rgba(128, 128, 128, 0.322);
+}
+
+#contect2:hover {
+    width: 10%;
+    height: 30px;
+    color: white;
+    background-color: rgb(165, 127, 255);
+    font-size: 20px;
+    font-family: serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    padding-top: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+/* navigration Bar 2 end  */
+
+
+/* navigration Bar 3 start  */
+
+#main3 {
+    width: 90%;
+    height: 70px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    justify-content: flex-end;
+    margin-top: 50px;
+
+}
+
+#logo3 {
+    display: flex;
+    flex-direction: row;
+    margin-right: 450px;
+    justify-content: flex-start;
+}
+
+#contect3 {
+    width: 10%;
+    height: 25px;
+    background-color: rgb(13, 9, 243);
+    color: white;
+    border: 1px solid black;
+    border-radius: 50px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    padding-top: 10px;
+    margin: 10px;
+}
+
+#sirvices3,
+#project3,
+#about3 {
+    width: 10%;
+    height: 25px;
+    color: white font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    padding-top: 10px;
+    margin: 10px;
+}
+
+#sirvices3:hover,
+#project3:hover,
+#about3:hover {
+    width: 10%;
+    height: 25px;
+    color: white;
+    font-size: 20px;
+    font-family: serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    padding-top: 10px;
+    margin: 10px;
+    cursor: pointer;
+    margin-top: 20px;
+    background-color: rgba(128, 128, 128, 0.322);
+}
+
+#contect3:hover {
+    width: 10%;
+    height: 30px;
+    color: white;
+    background-color: rgb(255, 127, 191);
+    font-size: 20px;
+    font-family: serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    padding-top: 10px;
+    margin: 10px;
+    cursor: pointer;
+    transform: rotate(3deg);
+}
+
+/* navigration Bar 3 end  */
