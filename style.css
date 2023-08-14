@@ -1,6 +1,7 @@
 body {
     background-color: beige;
 }
+ /* navigration Bar 1 Start  */
 
 #main1 {
     width: 90%;
@@ -9,7 +10,6 @@ body {
     color: white;
     border: 1px solid black;
     display: flex;
-
     margin: auto;
     justify-content: space-around;
     margin-top: 200px;
@@ -28,6 +28,7 @@ button{
     box-shadow: 3px 3px 3px 3px ;
     margin-top: 10px; 
     
+    
 }
 
 #sirvices,
@@ -42,6 +43,7 @@ button{
     text-align: center;
     padding-top: 10px;
     margin: 10px;
+    
 }
 
 #sirvices:hover,
